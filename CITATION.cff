@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated manuscript and repository release."
+title: "Island Socio-Ecological Systems Systematic Review: Reproducibility Package"
+type: software
+authors:
+  - family-names: Monteiro
+    given-names: Gelson
+repository-code: "https://github.com/gelsonalexfg-hash/Island_SES_Systematic_Review"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-10
